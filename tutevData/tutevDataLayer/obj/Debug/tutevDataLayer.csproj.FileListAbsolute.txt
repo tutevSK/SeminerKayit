@@ -1,0 +1,14 @@
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\tutevDataLayer.dll
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\tutevDataLayer.pdb
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\obj\Debug\tutevDataLayer.dll
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\obj\Debug\tutevDataLayer.pdb
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Umt\Documents\Visual Studio 2010\Projects\tutevData\tutevDataLayer\bin\Debug\Microsoft.Practices.Unity.Interception.pdb

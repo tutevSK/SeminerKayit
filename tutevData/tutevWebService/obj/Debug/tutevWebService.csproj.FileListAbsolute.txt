@@ -1,0 +1,5 @@
+c:\users\umt\documents\visual studio 2010\Projects\tutevData\tutevWebService\bin\tutevWebService.dll
+c:\users\umt\documents\visual studio 2010\Projects\tutevData\tutevWebService\bin\tutevWebService.pdb
+c:\users\umt\documents\visual studio 2010\Projects\tutevData\tutevWebService\obj\Debug\ResolveAssemblyReference.cache
+c:\users\umt\documents\visual studio 2010\Projects\tutevData\tutevWebService\obj\Debug\tutevWebService.dll
+c:\users\umt\documents\visual studio 2010\Projects\tutevData\tutevWebService\obj\Debug\tutevWebService.pdb
